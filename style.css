@@ -1,0 +1,16 @@
+html, body {
+	background-color: #3d404c;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 160%;
+	font-smooth: auto;
+	-moz-osx-font-smoothing: grayscale !important;
+	-webkit-font-smoothing: subpixel-antialiased;
+	overflow-x: hidden;
+}
